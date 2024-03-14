@@ -45,3 +45,6 @@ In this readme, we will cover the basic steps involved in hypothesis testing, in
     4. Collecting and analyzing the data.
     5. Interpreting the test results.
     6. Drawing conclusions and making decisions.
+
+
+# Numpy
